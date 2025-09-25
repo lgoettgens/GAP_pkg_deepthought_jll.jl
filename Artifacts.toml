@@ -1,0 +1,86 @@
+[[GAP_pkg_deepthought]]
+arch = "aarch64"
+git-tree-sha1 = "b428b428e76cac64f7f9e0c7c807dd9f4a97eeba"
+os = "macos"
+
+    [[GAP_pkg_deepthought.download]]
+    sha256 = "4aebc9c1757dd1673598398bff213e64e47fe71f7ad6f956c73b97a5e58289df"
+    url = "https://github.com/lgoettgens/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v101.900.0+0/GAP_pkg_deepthought.v101.900.0.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_deepthought]]
+arch = "aarch64"
+git-tree-sha1 = "9da1a6ab9c5bbc587cfa16c495df753ebe2a59ab"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_deepthought.download]]
+    sha256 = "4800a3e0418e2ca5664b985b351c4999b7275bc88554cd846ba06216ee565979"
+    url = "https://github.com/lgoettgens/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v101.900.0+0/GAP_pkg_deepthought.v101.900.0.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_deepthought]]
+arch = "aarch64"
+git-tree-sha1 = "057b126ef6b9a3b63cb2b9ada34c97ba4084b777"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_deepthought.download]]
+    sha256 = "58354f68692809f13b8b716116faf07289ec1711c8c1c2038a991e0ac4947709"
+    url = "https://github.com/lgoettgens/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v101.900.0+0/GAP_pkg_deepthought.v101.900.0.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_deepthought]]
+arch = "aarch64"
+git-tree-sha1 = "0ce0f10e207dc51bd7bcad0ed220233f9a7bde9d"
+os = "freebsd"
+
+    [[GAP_pkg_deepthought.download]]
+    sha256 = "03c8fae1cb2408b58dc6185f5e5efcf5a8e778b13579317b9b1b8e7ce972c6a7"
+    url = "https://github.com/lgoettgens/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v101.900.0+0/GAP_pkg_deepthought.v101.900.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_deepthought]]
+arch = "powerpc64le"
+git-tree-sha1 = "cf1aa64d41d16f00674c1c7a5be41dc0abc64598"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_deepthought.download]]
+    sha256 = "1c95b9353554ce78cb989c5e4f5bed783926de6486c021110ce5ae4cdb1cbef3"
+    url = "https://github.com/lgoettgens/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v101.900.0+0/GAP_pkg_deepthought.v101.900.0.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_deepthought]]
+arch = "riscv64"
+git-tree-sha1 = "aee94ff228c636d83e65f6e573f64ba93fb33997"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_deepthought.download]]
+    sha256 = "0b8475334e7fb6d566685de89ad801012b020df48a8244ea5a25d7e2a546b27f"
+    url = "https://github.com/lgoettgens/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v101.900.0+0/GAP_pkg_deepthought.v101.900.0.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_deepthought]]
+arch = "x86_64"
+git-tree-sha1 = "364bfe097ebca705c9a7fdcbd8e62e1394192a22"
+os = "macos"
+
+    [[GAP_pkg_deepthought.download]]
+    sha256 = "0bf9f5c22fa72ccfc708e1744419d7daeb972a3a8cdde7373b829c4b4c84f301"
+    url = "https://github.com/lgoettgens/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v101.900.0+0/GAP_pkg_deepthought.v101.900.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_deepthought]]
+arch = "x86_64"
+git-tree-sha1 = "c764df4b2fd42dfee7b4d33259a14644a5d99540"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_deepthought.download]]
+    sha256 = "b3538f5a737d69721236914b7918265e264b87533a7ccc26ec7bb9e6b8cdc478"
+    url = "https://github.com/lgoettgens/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v101.900.0+0/GAP_pkg_deepthought.v101.900.0.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_deepthought]]
+arch = "x86_64"
+git-tree-sha1 = "546f28993d34453109e8381e7eb2347953968d10"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_deepthought.download]]
+    sha256 = "6b948ac18b8a6b763ef9a23b4c52523b96b1df84479d4185d3e36859a16eb64f"
+    url = "https://github.com/lgoettgens/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v101.900.0+0/GAP_pkg_deepthought.v101.900.0.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_deepthought]]
+arch = "x86_64"
+git-tree-sha1 = "b90b7901190f8a6c8f171fcb062bb5832dc20e96"
+os = "freebsd"
+
+    [[GAP_pkg_deepthought.download]]
+    sha256 = "3d031e1b10db7bcf5493e61acddcafe329fc09f9b337e850da8583ffe4137a33"
+    url = "https://github.com/lgoettgens/GAP_pkg_deepthought_jll.jl/releases/download/GAP_pkg_deepthought-v101.900.0+0/GAP_pkg_deepthought.v101.900.0.x86_64-unknown-freebsd.tar.gz"
